@@ -1,5 +1,5 @@
 {
-    "name": "colinodell/omnipay-bundle",
+    "name": "veldjmaxis/omnipay-bundle",
     "description": "Omnipay bundle for Symfony 2.3+ and 3.0+",
     "keywords": ["omnipay", "bundle", "symfony", "payment", "symfony2", "symfony3"],
     "homepage": "https://github.com/colinodell/omnipay-bundle",
@@ -15,7 +15,7 @@
     "require": {
         "php": ">=5.4.0",
         "omnipay/common": "~2.0",
-        "symfony/framework-bundle": "~2.3||~3.0"
+        "symfony/framework-bundle": "~2.3||^3.4"
     },
     "require-dev": {
         "omnipay/paypal": "~2.0",
