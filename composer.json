@@ -15,7 +15,7 @@
     "require": {
         "php": ">=5.4.0",
         "omnipay/common": "~2.0",
-        "symfony/framework-bundle": "~2.3||^3.4"
+        "symfony/framework-bundle": "~2.3||^3.4.6"
     },
     "require-dev": {
         "omnipay/paypal": "~2.0",
